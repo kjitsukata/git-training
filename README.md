@@ -1,2 +1,2 @@
 # git-training
-Git training repository
+Practice git operation.
